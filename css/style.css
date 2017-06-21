@@ -1,5 +1,5 @@
 html, body {
-    font: normal 83% Arial, Calibri, Candara, sans-serif;
+    font: normal 83% Arial, Calibri, sans-serif;
     width: 100%;
     height: auto;
     overflow-x: hidden;
@@ -8,7 +8,11 @@ html, body {
 }
 
 font {
-    line-height: 1.75em;
+    line-height: 1.55em;
+}
+
+a {
+    text-decoration: none;
 }
 
 a:hover {
